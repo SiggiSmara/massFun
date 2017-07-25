@@ -4,3 +4,5 @@
 doi: http://dx.doi.org/10.1016/j.chroma.2016.04.054
 
 This baseline correction strategy was implemented in MATLAB. The  paper supplied binary versions of the functions but no source code.
+
+The python code is based on the description of the code in the paper.
